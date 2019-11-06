@@ -25,11 +25,14 @@ hs_err_pid*
 # ide
 .idea/
 .gradle/
-*/lombok.config
 bin/
 build/
 tmp/
 out/
+
+# lombok plugin
+*/lombok.config
+lombok.config
 
 # asciidoc
 **/docs/asciidoc/*.md
